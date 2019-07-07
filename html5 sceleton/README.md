@@ -1,0 +1,1 @@
+Egy html5 alap, gerinc és egy css reset fájl.
