@@ -1,0 +1,1 @@
+Ez egy footer html váz és az igazításához való css fáj.
